@@ -170,9 +170,9 @@ Possible dataset sources include:
 
 # Team Members
 
-- V. SHREYAN 
-- R. MOURYA 
-- M. MALLIKA
+- V. Shreyan  
+- R. Mourya 
+- M. Mallika
 
 ---
 
