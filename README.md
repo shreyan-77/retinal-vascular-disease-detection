@@ -19,16 +19,15 @@ The system provides a simple interface where users can upload retinal images and
 
 ---
 
-# Demo
+## Demo
 
-### Streamlit Application Interface
+<p align="center">
+  <img src="assets/app_demo.png" width="800">
+</p>
 
-![App Screenshot](assets/app_demo.png)
-
-### Prediction Output
-
-![Prediction Screenshot](assets/prediction_demo.png)
-
+<p align="center">
+  <img src="assets/prediction_demo.png" width="800">
+</p>
 ---
 
 # Model Performance
