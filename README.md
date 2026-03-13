@@ -172,7 +172,7 @@ Possible dataset sources include:
 
 - V. Shreyan  
 - R. Mourya 
-- M. Mallika
+- M. Sri Mallika
 
 ---
 
